@@ -1,0 +1,39 @@
+@charset "utf-8";
+          /*슬라이더*/
+          #slider {width:1900px; height:600px; margin:0 auto;}
+          #slider > a > img {width:100%; height:550px;}
+
+          /*main*/
+          section {width:1100px; height:3200px; margin:0 auto;}
+          
+
+          .main_slider {width:1100px; height:400px;}
+          .main_slider > a > img {width:1100px; height:250px; margin:75px 0 0 0px;}
+          .main1_slider {width:1100px; height:400px;}
+          .main1_slider > a > img {width:1100px; height:250px; margin:75px 0 0 0px;}
+
+          .box {width:240px; height:395px; padding:10px; margin:10px;  display:inline-block; }
+          .box img {width:100%; height:265px;}
+          .box p {font-size:12px;font-weight:bold; height:25px; margin:10px 0 0 0px;}
+          .box p a {color:#000; text-decoration:none;}
+          .c1 {font-size:12px; color:#999; display:block;}
+          .c2 {font-size:14px; color:#000; font-weight:bold;}
+          .c3 {font-size:18px; color:red; font-weight:bold; display:inline-block; margin:0 10px 0 0px;}
+          .c4 {font-size:12px; color:#999; display:block;}
+          .btn1 {color:#666; padding:1px 5px 2px; font-size:10px; display:block; width:100px; margin:10px 0 0 0;} 
+
+          #first_product{width:1050px; height:550px; margin:0 auto;}
+          #first_title {color:rgb(51, 51, 51); font-size:28px; line-height:1.15; letter-spacing:5px; font-weight:bold; text-align:center; width:100%; padding:30px 0px; margin:0px 0px 30px;}
+          .first_product_box {width:250px; height:400px; float:left; margin:0 5px;}
+
+
+          #second_product{width:1050px; height:1000px; margin:0 auto;}
+          #second_title {color:rgb(51, 51, 51); font-size:28px; line-height:1.15; letter-spacing:5px; font-weight:bold; text-align:center; width:100%; padding:30px 0px; margin:0px 0px 30px;}
+          .second_product_box {width:250px; height:400px; float:left; margin:20px 5px;}
+
+          #product{width:1050px; height:800px; margin:0 auto;}
+          #product_ul {width:1050px; height:200px; text-align:center;}
+          #product_title {color:rgb(51, 51, 51); font-size:28px; line-height:1.15; letter-spacing:5px; font-weight:bold; text-align:center; width:100%; padding:30px 0px; margin:0px 0px 30px;}
+          .product_box {width:250px; height:400px; float:left; margin:30px 5px }
+          #product_ul > ul > li {margin:10px; letter-spacing:2px; border:1px solid #E0E0E0; border-radius:20px; padding:10px; background-color:#E0E0E0; font-size:13px; display:inline-block;} 
+          #product_ul > ul > li > a {text-decoration:none; color:#000;}
